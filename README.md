@@ -2,12 +2,12 @@
 # Fantasy-Sports-Clustering-Analysis
 ------------------------------------------
 ## Objectives
-------------------------------------------
+
 The objective of this project was to conduct a cluster analysis of data from the OnSports fantasy sports platform in order to identify patterns in player performance and inform pricing decisions for the start of a new season. Determining the potential of each player based on their previous season performance, and identifying the characteristics of different clusters of players.
 
-------------------------------------------
+
 ## Results
-------------------------------------------
+
 This was done through the use of cluster analysis and the comparison of various algorithms, including K-Means, K-Medoids, Heirarchical Clustering, GMM clustering, and DBSCAN. Comparison of the five different algorithms resluted in K-means being selected as the final algorithm due to its high silhouette score.
 
 The results of the clustering analysis included the identification of four clusters of players, characterized by their level of influence on the outcome of the game, goals scored, creativity, and other factors.
